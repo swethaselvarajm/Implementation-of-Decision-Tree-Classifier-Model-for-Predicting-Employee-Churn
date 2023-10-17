@@ -9,9 +9,13 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 
 ## Algorithm:
 1.Import pandas as pd.
+
 2.Obtain the information of the data.
+
 3.Print the sum of null datas.
+
 4.Using DecsionTreeClassifier imported from sklearn we get the accuracy.
+
 5.Print the predicted values.
 
 ## Program:
